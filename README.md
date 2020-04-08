@@ -1,3 +1,5 @@
+![](https://github.com/mlhenderson/jupyterlab-recents/workflows/build.yml/badge.svg)
+
 # jupyterlab-recents
 
 Track recent files and folders.

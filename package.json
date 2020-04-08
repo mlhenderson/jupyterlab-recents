@@ -46,7 +46,8 @@
   },
   "devDependencies": {
     "rimraf": "^2.6.1",
-    "typescript": "~3.7.2"
+    "typescript": "~3.7.2",
+    "puppeteer": "^1.10.0"
   },
   "jupyterlab": {
     "extension": true
